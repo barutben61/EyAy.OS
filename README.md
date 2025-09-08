@@ -1,4 +1,4 @@
-# 🤖 EyAy.OS 2.0 - Modern Turkish AI Assistant Platform
+# 🤖 EyAy.OS 2.0 - Modern Turkish AI İşletim Sistemi Platform
 
 <div align="center">
 
