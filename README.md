@@ -1,3 +1,4 @@
+28BG8822F4
 # 🤖 EyAy.OS 2.0 - Modern Turkish AI Assistant Platform
 
 <div align="center">
